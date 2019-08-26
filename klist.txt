@@ -1,0 +1,10 @@
+Credentials cache: API:472F71F4-9BD2-4C12-BE74-783393B41D3C
+        Principal: mdiallo@42.FR
+
+  Issued                Expires               Principal
+Aug 26 17:21:56 2019  Sep  2 17:21:56 2019  krbtgt/42.FR@42.FR
+Aug 26 17:21:57 2019  Sep  2 17:21:56 2019  ldap/ldap-proxy.42.fr@42.FR
+Aug 26 17:21:58 2019  Sep  2 17:21:56 2019  HTTP/student-storage-2.42.fr@42.FR klist.txt
+e2r9p15% cat klist.txt
+e2r9p15% echo Credentials cache: API:472F71F4-9BD2-4C12-BE74-783393B41D3C
+        Principal: mdiallo@42.FR
